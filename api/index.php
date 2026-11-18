@@ -758,7 +758,7 @@
 
       <div class="hero-image-wrapper">
         <img 
-          src="img/perfil.jpeg" 
+          src="imagenes/perfil.jpeg" 
           alt="Foto de perfil de Eliana Yaipén" 
           class="hero-img"
           onerror="this.src='https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80'"
@@ -796,7 +796,7 @@
 
         <div class="card about-photo-card">
           <img 
-            src="img/sobre-mi.jpg" 
+            src="imagenes/sobre-mi.jpeg" 
             alt="Eliana en un momento personal o viaje"
             onerror="this.src='https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=600&q=80'"
           />
@@ -842,7 +842,7 @@
         <article class="card project-card">
           <div class="project-img-box">
             <img 
-              src="img/agrocloud.jpg" 
+              src="imagenes/agrocloud.jpeg" 
               alt="AgroCloud AI"
               onerror="this.src='https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?auto=format&fit=crop&w=600&q=80'"
             />
@@ -864,7 +864,7 @@
         <article class="card project-card">
           <div class="project-img-box">
             <img 
-              src="img/petpoint.jpg" 
+              src="imagenes/petpoint.jpeg" 
               alt="PetPoint App"
               onerror="this.src='https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=600&q=80'"
             />
@@ -887,7 +887,7 @@
         <article class="card project-card">
           <div class="project-img-box">
             <img 
-              src="img/inkamedic.jpg" 
+              src="imagenes/inkamedic.jpeg" 
               alt="InkaMedic CRM"
               onerror="this.src='https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80'"
             />
@@ -909,7 +909,7 @@
         <article class="card project-card">
           <div class="project-img-box">
             <img 
-              src="img/eventify.jpg" 
+              src="imagenes/eventify.jpeg" 
               alt="Eventify UNS"
               onerror="this.src='https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=600&q=80'"
             />
@@ -950,7 +950,7 @@
           </div>
           <div class="timeline-img-box">
             <img 
-              src="img/incuba-petpoint.jpg" 
+              src="imagenes/incuba-petpoint.jpeg" 
               alt="Equipo ganador en Incuba UNS con PetPoint"
               class="timeline-img"
               onerror="this.src='https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80'"
@@ -1009,7 +1009,7 @@
         <!-- Post 1 -->
         <article class="card post-card" data-category="tecnologia">
           <img 
-            src="img/post-tech.jpg" 
+            src="imagenes/post-tech.jpeg" 
             alt="Desarrollo y datos" 
             class="post-img"
             onerror="this.src='https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80'"
@@ -1028,7 +1028,7 @@
         <!-- Post 2 -->
         <article class="card post-card" data-category="viajes">
           <img 
-            src="img/post-viaje.jpeg" 
+            src="imagenes/post-viaje.jpeg" 
             alt="Arequipa y el Colca" 
             class="post-img"
             onerror="this.src='https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?auto=format&fit=crop&w=600&q=80'"
@@ -1047,7 +1047,7 @@
         <!-- Post 3 -->
         <article class="card post-card" data-category="personal">
           <img 
-            src="img/post-arte.jpg" 
+            src="imagenes/post-arte.jpeg" 
             alt="Pintura y creatividad" 
             class="post-img"
             onerror="this.src='https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&w=600&q=80'"
